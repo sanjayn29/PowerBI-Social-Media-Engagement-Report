@@ -12,7 +12,7 @@ The Power BI report file (`Social Media Engagement Report.pbix`) visualizes the 
 
 ---
 
-## 👨‍💻 Developers
+## 👨‍💻 Developer
 
 **Sanjay N** 🚀 Freelancer
 
